@@ -1,6 +1,6 @@
 (function() {
   // Konfiguration - ÄNDERN SIE DIESE URL ZU IHRER HOSTING-URL, WO DIE DATEIEN LIEGEN
-  const widgetBaseUrl = 'https://your-hosting-url.com/';  // Muss mit einem Schrägstrich enden
+  const widgetBaseUrl = 'https://bb-de.github.io/bfsg-v10/';  // Muss mit einem Schrägstrich enden
   
   // Widget-iframe erstellen
   function createWidgetIframe() {
