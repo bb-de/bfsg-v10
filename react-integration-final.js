@@ -2,7 +2,7 @@
   // Konfiguration - ÄNDERN SIE DIESE URL ZU IHRER HOSTING-URL, WO DIE DATEIEN LIEGEN
   // Wichtig: Wenn Sie das Widget in Webflow integrieren, stellen Sie sicher, dass Sie 
   // hier die korrekte URL zu Ihrem 'improved-build' Ordner angeben
-  const widgetBaseUrl = './improved-build/';  // Für lokales Testen
+  const widgetBaseUrl = 'https://bb-de.github.io/bfsg-v10/';  // Für lokales Testen
   
   // Überprüfen, ob wir bereits in einem iframe sind
   const isInIframe = window.self !== window.top;
